@@ -14,5 +14,5 @@ classes:
 
 asdfasdf
 
-![full](/assets/images/wide.jpg)
+![full](/assets/images/jean-marie-pfaff-fan-card-signed.webp)
 {: .full}
