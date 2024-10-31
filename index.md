@@ -28,13 +28,7 @@ We as kids were collecting those cards, and exchanging/trading cards with each o
 
 
 "Pfaff has always been a great goalkeeper, an athlete physically,  and technically at the highest levels, a perfectionist with a great spirit of sacrifice" (Johan Cruijff about Jean-Marie Pfaff)  
-Video:
-[![Best of](https://img.youtube.com/vi/Ejc1XJSq56E/0.jpg)](https://www.youtube.com/watch?v=Ejc1XJSq56E)
-
-https://www.youtube.com/watch?v=Ejc1XJSq56E
-
 {% include video id="Ejc1XJSq56E" provider="youtube" %}
-
 
 https://en.wikipedia.org/wiki/Jean-Marie_Pfaff
 
