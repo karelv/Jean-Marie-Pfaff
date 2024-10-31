@@ -12,10 +12,11 @@ classes:
   - wide
 ---
 
-Belgian footbal play, his role was the goalkeeper.   
+Belgian footbal play, his role was goalkeeper.   
 Pfaff was named goalkeeper of the 1986 FIFA World Cup!  
 
-![full](/assets/images/jean-marie-pfaff-fan-card-signed.webp)
+
+![full](/assets/images/mexico-86-world-cup-jean-marie-pfaff-belgique-sticker.webp)
 {: .full}
 
 ![full](/assets/images/wide.jpg)
