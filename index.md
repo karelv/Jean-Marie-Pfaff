@@ -16,3 +16,12 @@ goalkeeper of the 1986 FIFA World Cup
 
 ![full](/assets/images/jean-marie-pfaff-fan-card-signed.webp)
 {: .full}
+
+![full](/assets/images/wide.jpg)
+{: .full}
+
+https://en.wikipedia.org/wiki/Jean-Marie_Pfaff
+
+https://en.wikipedia.org/wiki/Belgium_national_football_team
+
+
