@@ -33,6 +33,9 @@ Video:
 
 https://www.youtube.com/watch?v=Ejc1XJSq56E
 
+{% include video id="Ejc1XJSq56E" provider="youtube" %}
+
+
 https://en.wikipedia.org/wiki/Jean-Marie_Pfaff
 
 https://en.wikipedia.org/wiki/Belgium_national_football_team
