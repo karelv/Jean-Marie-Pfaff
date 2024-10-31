@@ -68,6 +68,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/karelv"
+    - label: "QR Code Monkey"
+      url: "https://www.qrcode-monkey.com"
 
 defaults:
   # _posts
