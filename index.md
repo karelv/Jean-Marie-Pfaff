@@ -18,15 +18,15 @@ Pfaff was named goalkeeper of the 1986 FIFA World Cup!
 ![full](/assets/images/Jean-Marie-Pfaff-thumbs-up.webp)
 {: .full}
 
-https://www.youtube.com/watch?v=Ejc1XJSq56E
 
+We as kids were collecting those cards, and exchanging/trading cards.
 ![full](/assets/images/mexico-86-world-cup-jean-marie-pfaff-belgique-sticker.webp)
 {: .full}
 
 ![full](/assets/images/wide.jpg)
 {: .full}
 
-
+[![Best of](https://img.youtube.com/vi/Ejc1XJSq56E/0.jpg)](https://www.youtube.com/watch?v=Ejc1XJSq56E)
 
 https://en.wikipedia.org/wiki/Jean-Marie_Pfaff
 
