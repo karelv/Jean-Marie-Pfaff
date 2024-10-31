@@ -35,3 +35,7 @@ https://en.wikipedia.org/wiki/Jean-Marie_Pfaff
 https://en.wikipedia.org/wiki/Belgium_national_football_team
 
 https://it.uefa.com/uefaeuro/history/news/0253-0d811d7ab6fd-47039d8274e6-1000--euro-cult-heroes-jean-marie-pfaff-1980/
+
+![full](/assets/images/qr-code-small.png)
+{: .full}
+
