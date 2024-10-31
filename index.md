@@ -12,8 +12,11 @@ classes:
   - wide
 ---
 
-Belgian footbal play, his role was goalkeeper, nick name: 'El Simpático' (Mr Nice Guy).   
+Belgian footbal player, his role was goalkeeper, nick name: 'El Simpático' (Mr Nice Guy).   
 Pfaff was named goalkeeper of the 1986 FIFA World Cup!  
+
+![full](/assets/images/Jean-Marie-Pfaff-thumbs-up.webp)
+{: .full}
 
 https://www.youtube.com/watch?v=Ejc1XJSq56E
 
@@ -23,8 +26,6 @@ https://www.youtube.com/watch?v=Ejc1XJSq56E
 ![full](/assets/images/wide.jpg)
 {: .full}
 
-![full](/assets/images/Jean-Marie-Pfaff-thumbs-up.webp)
-{: .full}
 
 
 https://en.wikipedia.org/wiki/Jean-Marie_Pfaff
