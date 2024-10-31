@@ -31,6 +31,8 @@ We as kids were collecting those cards, and exchanging/trading cards with each o
 Video:
 [![Best of](https://img.youtube.com/vi/Ejc1XJSq56E/0.jpg)](https://www.youtube.com/watch?v=Ejc1XJSq56E)
 
+https://www.youtube.com/watch?v=Ejc1XJSq56E
+
 https://en.wikipedia.org/wiki/Jean-Marie_Pfaff
 
 https://en.wikipedia.org/wiki/Belgium_national_football_team
