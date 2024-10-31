@@ -56,18 +56,18 @@ plugins:
 
 author:
   name   : "Karel Vanroye"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/qr-code-small.png"
   bio    : ""
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/karelv"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/karelv"
 
 defaults:
   # _posts
