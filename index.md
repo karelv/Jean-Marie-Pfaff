@@ -19,7 +19,7 @@ Pfaff was named goalkeeper of the 1986 FIFA World Cup!
 {: .full}
 
 
-We as kids were collecting those cards, and exchanging/trading cards.
+We as kids were collecting those cards, and exchanging/trading cards with each other.
 ![full](/assets/images/mexico-86-world-cup-jean-marie-pfaff-belgique-sticker.webp)
 {: .full}
 
@@ -30,8 +30,6 @@ We as kids were collecting those cards, and exchanging/trading cards.
 "Pfaff has always been a great goalkeeper, an athlete physically,  and technically at the highest levels, a perfectionist with a great spirit of sacrifice" (Johan Cruijff about Jean-Marie Pfaff)  
 Video:
 [![Best of](https://img.youtube.com/vi/Ejc1XJSq56E/0.jpg)](https://www.youtube.com/watch?v=Ejc1XJSq56E)
-
-![Best of](https://img.youtube.com/vi/Ejc1XJSq56E)
 
 https://en.wikipedia.org/wiki/Jean-Marie_Pfaff
 
