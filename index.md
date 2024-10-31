@@ -12,7 +12,7 @@ classes:
   - wide
 ---
 
-asdfasdf
+goalkeeper of the 1986 FIFA World Cup
 
 ![full](/assets/images/jean-marie-pfaff-fan-card-signed.webp)
 {: .full}
